@@ -1,6 +1,6 @@
 <h2>🚀 Demo</h2>
 
-[https://drive-game-three.vercel.app/](https://drive-game-three.vercel.app/)
+[Drive Game](https://drive-game-three.vercel.app/)
 
 
 <h2>💻 Built with</h2>
